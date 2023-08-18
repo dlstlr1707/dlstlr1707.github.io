@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/bitgloomy/static/css/main.14ee006e.css",
-    "main.js": "/bitgloomy/static/js/main.1d22c40e.js",
-    "static/js/787.24c3adf7.chunk.js": "/bitgloomy/static/js/787.24c3adf7.chunk.js",
-    "static/media/user.png": "/bitgloomy/static/media/user.da5fe8a22f9d43b4b7f3.png",
-    "static/media/kakaoIcon.png": "/bitgloomy/static/media/kakaoIcon.44ed3733aa00ecf472ae.png",
-    "static/media/bitgloomy.png": "/bitgloomy/static/media/bitgloomy.4b522d3a0d8b453244dd.png",
-    "static/media/musinsa_blazer.jpg": "/bitgloomy/static/media/musinsa_blazer.b87450d0916c0e321efe.jpg",
-    "static/media/cart.png": "/bitgloomy/static/media/cart.c9cd8b97e4b1b89632e4.png",
-    "static/media/instagram.png": "/bitgloomy/static/media/instagram.56d3c2ef9b43e98875c0.png",
-    "static/media/googleIcon.png": "/bitgloomy/static/media/googleIcon.eed5ff7948fed6db0a84.png",
-    "static/media/product.PNG": "/bitgloomy/static/media/product.ee701da33338752763e8.PNG",
-    "index.html": "/bitgloomy/index.html",
-    "main.14ee006e.css.map": "/bitgloomy/static/css/main.14ee006e.css.map",
-    "main.1d22c40e.js.map": "/bitgloomy/static/js/main.1d22c40e.js.map",
-    "787.24c3adf7.chunk.js.map": "/bitgloomy/static/js/787.24c3adf7.chunk.js.map"
+    "main.css": "/static/css/main.14ee006e.css",
+    "main.js": "/static/js/main.5fdfa04d.js",
+    "static/js/787.d1db624b.chunk.js": "/static/js/787.d1db624b.chunk.js",
+    "static/media/user.png": "/static/media/user.da5fe8a22f9d43b4b7f3.png",
+    "static/media/kakaoIcon.png": "/static/media/kakaoIcon.44ed3733aa00ecf472ae.png",
+    "static/media/bitgloomy.png": "/static/media/bitgloomy.4b522d3a0d8b453244dd.png",
+    "static/media/musinsa_blazer.jpg": "/static/media/musinsa_blazer.b87450d0916c0e321efe.jpg",
+    "static/media/cart.png": "/static/media/cart.c9cd8b97e4b1b89632e4.png",
+    "static/media/instagram.png": "/static/media/instagram.56d3c2ef9b43e98875c0.png",
+    "static/media/googleIcon.png": "/static/media/googleIcon.eed5ff7948fed6db0a84.png",
+    "static/media/product.PNG": "/static/media/product.ee701da33338752763e8.PNG",
+    "index.html": "/index.html",
+    "main.14ee006e.css.map": "/static/css/main.14ee006e.css.map",
+    "main.5fdfa04d.js.map": "/static/js/main.5fdfa04d.js.map",
+    "787.d1db624b.chunk.js.map": "/static/js/787.d1db624b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14ee006e.css",
-    "static/js/main.1d22c40e.js"
+    "static/js/main.5fdfa04d.js"
   ]
 }
