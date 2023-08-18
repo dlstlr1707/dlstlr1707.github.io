@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bitgloomy/static/css/main.14ee006e.css",
-    "main.js": "/bitgloomy/static/js/main.6cf03e8f.js",
+    "main.js": "/bitgloomy/static/js/main.1d22c40e.js",
     "static/js/787.24c3adf7.chunk.js": "/bitgloomy/static/js/787.24c3adf7.chunk.js",
     "static/media/user.png": "/bitgloomy/static/media/user.da5fe8a22f9d43b4b7f3.png",
     "static/media/kakaoIcon.png": "/bitgloomy/static/media/kakaoIcon.44ed3733aa00ecf472ae.png",
@@ -13,11 +13,11 @@
     "static/media/product.PNG": "/bitgloomy/static/media/product.ee701da33338752763e8.PNG",
     "index.html": "/bitgloomy/index.html",
     "main.14ee006e.css.map": "/bitgloomy/static/css/main.14ee006e.css.map",
-    "main.6cf03e8f.js.map": "/bitgloomy/static/js/main.6cf03e8f.js.map",
+    "main.1d22c40e.js.map": "/bitgloomy/static/js/main.1d22c40e.js.map",
     "787.24c3adf7.chunk.js.map": "/bitgloomy/static/js/787.24c3adf7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14ee006e.css",
-    "static/js/main.6cf03e8f.js"
+    "static/js/main.1d22c40e.js"
   ]
 }
